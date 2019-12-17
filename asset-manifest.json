@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/cart-app-assignment/static/css/main.743ecead.chunk.css",
-    "main.js": "/cart-app-assignment/static/js/main.99e42250.chunk.js",
-    "main.js.map": "/cart-app-assignment/static/js/main.99e42250.chunk.js.map",
-    "runtime-main.js": "/cart-app-assignment/static/js/runtime-main.c41e18f9.js",
-    "runtime-main.js.map": "/cart-app-assignment/static/js/runtime-main.c41e18f9.js.map",
+    "main.js": "/cart-app-assignment/static/js/main.50d9924e.chunk.js",
+    "main.js.map": "/cart-app-assignment/static/js/main.50d9924e.chunk.js.map",
+    "runtime-main.js": "/cart-app-assignment/static/js/runtime-main.e2010aba.js",
+    "runtime-main.js.map": "/cart-app-assignment/static/js/runtime-main.e2010aba.js.map",
     "static/css/2.93840727.chunk.css": "/cart-app-assignment/static/css/2.93840727.chunk.css",
-    "static/js/2.c0ca26db.chunk.js": "/cart-app-assignment/static/js/2.c0ca26db.chunk.js",
-    "static/js/2.c0ca26db.chunk.js.map": "/cart-app-assignment/static/js/2.c0ca26db.chunk.js.map",
+    "static/js/2.0980960a.chunk.js": "/cart-app-assignment/static/js/2.0980960a.chunk.js",
+    "static/js/2.0980960a.chunk.js.map": "/cart-app-assignment/static/js/2.0980960a.chunk.js.map",
     "index.html": "/cart-app-assignment/index.html",
-    "precache-manifest.970973869de0de1a52be986b2dbe662e.js": "/cart-app-assignment/precache-manifest.970973869de0de1a52be986b2dbe662e.js",
+    "precache-manifest.0698edee43d13e775e573e7b28832aa9.js": "/cart-app-assignment/precache-manifest.0698edee43d13e775e573e7b28832aa9.js",
     "service-worker.js": "/cart-app-assignment/service-worker.js",
     "static/css/2.93840727.chunk.css.map": "/cart-app-assignment/static/css/2.93840727.chunk.css.map",
     "static/css/main.743ecead.chunk.css.map": "/cart-app-assignment/static/css/main.743ecead.chunk.css.map",
-    "static/js/2.c0ca26db.chunk.js.LICENSE": "/cart-app-assignment/static/js/2.c0ca26db.chunk.js.LICENSE"
+    "static/js/2.0980960a.chunk.js.LICENSE": "/cart-app-assignment/static/js/2.0980960a.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.c41e18f9.js",
+    "static/js/runtime-main.e2010aba.js",
     "static/css/2.93840727.chunk.css",
-    "static/js/2.c0ca26db.chunk.js",
+    "static/js/2.0980960a.chunk.js",
     "static/css/main.743ecead.chunk.css",
-    "static/js/main.99e42250.chunk.js"
+    "static/js/main.50d9924e.chunk.js"
   ]
 }

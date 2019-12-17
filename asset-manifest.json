@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cart-app-assignment/static/css/main.743ecead.chunk.css",
-    "main.js": "/cart-app-assignment/static/js/main.0b8771c3.chunk.js",
-    "main.js.map": "/cart-app-assignment/static/js/main.0b8771c3.chunk.js.map",
+    "main.js": "/cart-app-assignment/static/js/main.973f9236.chunk.js",
+    "main.js.map": "/cart-app-assignment/static/js/main.973f9236.chunk.js.map",
     "runtime-main.js": "/cart-app-assignment/static/js/runtime-main.e2010aba.js",
     "runtime-main.js.map": "/cart-app-assignment/static/js/runtime-main.e2010aba.js.map",
     "static/css/2.93840727.chunk.css": "/cart-app-assignment/static/css/2.93840727.chunk.css",
     "static/js/2.0980960a.chunk.js": "/cart-app-assignment/static/js/2.0980960a.chunk.js",
     "static/js/2.0980960a.chunk.js.map": "/cart-app-assignment/static/js/2.0980960a.chunk.js.map",
     "index.html": "/cart-app-assignment/index.html",
-    "precache-manifest.5e521ffd66d934b98746d42d49a079b1.js": "/cart-app-assignment/precache-manifest.5e521ffd66d934b98746d42d49a079b1.js",
+    "precache-manifest.f9c3c6bc48eee8a9007df38e04793a86.js": "/cart-app-assignment/precache-manifest.f9c3c6bc48eee8a9007df38e04793a86.js",
     "service-worker.js": "/cart-app-assignment/service-worker.js",
     "static/css/2.93840727.chunk.css.map": "/cart-app-assignment/static/css/2.93840727.chunk.css.map",
     "static/css/main.743ecead.chunk.css.map": "/cart-app-assignment/static/css/main.743ecead.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.93840727.chunk.css",
     "static/js/2.0980960a.chunk.js",
     "static/css/main.743ecead.chunk.css",
-    "static/js/main.0b8771c3.chunk.js"
+    "static/js/main.973f9236.chunk.js"
   ]
 }

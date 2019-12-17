@@ -28,7 +28,6 @@ class App extends Component {
               </aside>
             </div>
             <div className="col p-4">
-              Wellcome To the jangle!!!
               <Switch>
                 <Route path="/" exact strict component={Home} />
                 <Route path="/cart" exact strict component={Cart} />

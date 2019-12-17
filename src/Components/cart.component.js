@@ -10,6 +10,8 @@ class Cart extends Component {
     return (
         <section className="container-fluid">
           Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart
+
+          Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart Cart 
         </section>
     );
   }

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router, Switch } from 'react-router-dom';
 import { Route } from "react-router-dom"
 
 import Header from './Components/header.component';
@@ -28,8 +28,11 @@ class App extends Component {
               </aside>
             </div>
             <div className="col p-4">
-              <Route path="/" exact strict component={Home} />
-              <Route path="/cart" exact strict component={Cart} />
+              Wellcome To the jangle!!!
+              <Switch>
+                <Route path="/" exact strict component={Home} />
+                <Route path="/cart" exact strict component={Cart} />
+              </Switch>
             </div>
           </div>
         </section>

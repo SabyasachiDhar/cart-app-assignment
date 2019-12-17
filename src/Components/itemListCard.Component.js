@@ -24,7 +24,6 @@ class ItemListCard extends Component {
     render() {
       return (
         <div>
-          Main Content
           <div className="row">
           {
             this.props.dataList.map((item) => (

@@ -39,6 +39,7 @@ class Home extends Component {
   render() {
     return (
       <Fragment>
+        <h3>Product List</h3>
         {/* <SortCard /> */}
         <ItemListCard dataList={this.state.items}/>
       </Fragment>

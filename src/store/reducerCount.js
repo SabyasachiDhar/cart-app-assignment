@@ -1,7 +1,7 @@
 const innitialState = {
     count: 0,
     quantity: 0,
-    historyAddToCart: []
+    addToCardHistory:[]
 }
 
 const reducerCount = (state = innitialState, action) =>{
@@ -22,12 +22,11 @@ const reducerCount = (state = innitialState, action) =>{
         }
         break;
         case "ADD_TO_CART":
+        console.log(newState.addToCardHistory.concat(action.historyAddToCart))
         return{
             ...state,
             quantity: newState.quantity + 1,
-            historyAddToCart: newState.historyAddToCart.concat({
-                item: newState
-            })
+            addToCardHistory: newState.addToCardHistory.concat(action.historyAddToCart)
         }
         break;
         

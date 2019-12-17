@@ -15,9 +15,9 @@ class CartIcon extends Component {
 }
 
 const mapStateToProps = (state) => {
-    return {
-      quantity: state.reducerCount.quantity,
-    }
+  return {
+    quantity: state.reducerCount.quantity
   }
+}
 
 export default connect(mapStateToProps)(CartIcon);

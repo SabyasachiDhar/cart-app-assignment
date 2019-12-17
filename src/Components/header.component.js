@@ -18,7 +18,7 @@ class Header extends Component {
             <Navbar.Collapse className="justify-content-end">
               
               <Navbar.Text>
-                <Search itemCount={this.props.historyAddToCart}/>
+                <Search />
               </Navbar.Text>
               <Navbar.Text>
                 <CartIcon />

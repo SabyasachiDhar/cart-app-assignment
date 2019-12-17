@@ -18,23 +18,26 @@ class App extends Component {
         <div id="layout-content" className="layout-content-wrapper">
           <Header />
           <section className="container-fluid">
-          <div className="row" id="body-row">
-            <div id="sidebar-container" className="sidebar-expanded d-none d-md-block">
-              <aside>
-                Aside
-                <FilterProgress 
-                  
-                />
-              </aside>
+            <div className="row" id="body-row">
+              <div id="sidebar-container" className="sidebar-expanded d-none d-md-block">
+                <aside>
+                  Aside
+                  <FilterProgress 
+                    
+                  />
+                </aside>
+              </div>
+              <div className="col p-4">
+                <Switch>
+                  <Route path="/" exact strict component={Home} />
+                  <Route path="/cart" exact strict component={Cart} />
+                </Switch>
+              </div>
             </div>
-            <div className="col p-4">
-              <Switch>
-                <Route path="/" exact strict component={Home} />
-                <Route path="/cart" exact strict component={Cart} />
-              </Switch>
-            </div>
-          </div>
-        </section>
+          </section>
+          <footer>
+            
+          </footer>
         </div>
       </Router>
     );

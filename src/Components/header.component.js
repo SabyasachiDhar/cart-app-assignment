@@ -14,7 +14,7 @@ class Header extends Component {
     return (
       <div className="headerWrapper">
         <Navbar expand="lg" variant="dark" bg="primary">
-            <Navbar.Brand href="/">Logo</Navbar.Brand>
+            <Navbar.Brand href="cart-app-assignment/#/">Logo</Navbar.Brand>
             <Navbar.Collapse className="justify-content-end">
               
               <Navbar.Text>

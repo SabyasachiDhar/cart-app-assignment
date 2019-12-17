@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cart-app-assignment/static/css/main.d1b05096.chunk.css",
+    "main.js": "/cart-app-assignment/static/js/main.528c51ad.chunk.js",
+    "main.js.map": "/cart-app-assignment/static/js/main.528c51ad.chunk.js.map",
+    "runtime-main.js": "/cart-app-assignment/static/js/runtime-main.e2010aba.js",
+    "runtime-main.js.map": "/cart-app-assignment/static/js/runtime-main.e2010aba.js.map",
+    "static/js/2.27978dca.chunk.js": "/cart-app-assignment/static/js/2.27978dca.chunk.js",
+    "static/js/2.27978dca.chunk.js.map": "/cart-app-assignment/static/js/2.27978dca.chunk.js.map",
+    "index.html": "/cart-app-assignment/index.html",
+    "precache-manifest.e81dcabd4443f6861a61bc62c5952a6f.js": "/cart-app-assignment/precache-manifest.e81dcabd4443f6861a61bc62c5952a6f.js",
+    "service-worker.js": "/cart-app-assignment/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/cart-app-assignment/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.27978dca.chunk.js.LICENSE": "/cart-app-assignment/static/js/2.27978dca.chunk.js.LICENSE",
+    "static/media/logo.svg": "/cart-app-assignment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2010aba.js",
+    "static/js/2.27978dca.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.528c51ad.chunk.js"
+  ]
+}
